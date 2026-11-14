@@ -1,0 +1,18 @@
+{
+    "name": "SPZombies.MapKit.Editor",
+    "rootNamespace": "SPZombies.MapKit.Editor",
+    "references": [
+        "SPZombies.MapKit"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

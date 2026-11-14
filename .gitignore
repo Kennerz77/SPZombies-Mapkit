@@ -1,0 +1,6 @@
+TestProject/
+BuildProject/
+tools/selftest/
+tools/*.log
+build/
+tools/audio_in/
